@@ -1,2 +1,2 @@
 # portfolio
-my profile as a systems engineer
+My profile as a systems engineer
