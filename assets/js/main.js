@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*===== SHOW MENU =====*/
 const showMenu = (toggleId, navId) => {
   const toggle = document.getElementById(toggleId),
@@ -116,7 +116,7 @@ gsap.from('.home__greeting, .home__name, .home__profession, .home__button', {opa
 gsap.from('.nav__logo, .nav__toggle', {opacity:0, duration: 2, delay:1.5, y:25, ease:'expo-out', stagger: .2})
 gsap.from('.nav__item', {opacity:0, duration: 2, delay:1.8, y:25, ease:'expo-out', stagger: .2})
 gsap.from('.home__social-icon', {opacity:0, duration: 2, delay:2.3, y:25, ease:'expo-out', stagger: .2})
-=======
+
 /*===== SHOW MENU =====*/
 const showMenu = (toggleId, navId) => {
   const toggle = document.getElementById(toggleId),
@@ -234,4 +234,3 @@ gsap.from('.home__greeting, .home__name, .home__profession, .home__button', {opa
 gsap.from('.nav__logo, .nav__toggle', {opacity:0, duration: 2, delay:1.5, y:25, ease:'expo-out', stagger: .2})
 gsap.from('.nav__item', {opacity:0, duration: 2, delay:1.8, y:25, ease:'expo-out', stagger: .2})
 gsap.from('.home__social-icon', {opacity:0, duration: 2, delay:2.3, y:25, ease:'expo-out', stagger: .2})
->>>>>>> 57be3f728e504e6200f634ca1069f474720ba11e
