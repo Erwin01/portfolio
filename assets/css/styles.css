@@ -749,6 +749,9 @@ img {
 
 textarea.contact__input {
   grid-column: 1 / -1;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
   resize: vertical;
   min-height: 120px;
   margin-bottom: 1.5rem;
